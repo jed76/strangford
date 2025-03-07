@@ -27,4 +27,4 @@ rainey3 <- read.csv("data/csv/24_07_27_rainey_inat.csv", stringsAsFactors = T)
 ### rbind ##
 
 all_records <- rbind(shamrock, shamrock2, shamrock3, parton, lminnis, roe, roe2, inisharoan, inisharoan2, inishanier, green, green2, gminnis, drummond, drummond2, drummond3, darragh, darragh2, darragh3, craig, rainey, rainey2, rainey3)
-write.csv(all_records, "data/csv/all_records.csv")
+write.csv(all_records, "data/csv/all_records.csv", row.names = F)
