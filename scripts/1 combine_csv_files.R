@@ -20,8 +20,11 @@ darragh <- read.csv("data/csv/22_04_13_darragh.csv", stringsAsFactors = T)
 darragh2 <- read.csv("data/csv/22_07_darragh.csv", stringsAsFactors = T)
 darragh3 <- read.csv("data/csv/22_08_24_darragh.csv", stringsAsFactors = T)
 craig <- read.csv("data/csv/22_09_09_craigaveagh.csv", stringsAsFactors = T)
+rainey <- read.csv("data/csv/23_04_06 Rainey Island.csv", stringsAsFactors = T)
+rainey2 <- read.csv("data/csv/23_07_28 Rainey Island.csv", stringsAsFactors = T)
+rainey3 <- read.csv("data/csv/24_07_27_rainey_inat.csv", stringsAsFactors = T)
 
 ### rbind ##
 
-all_records <- rbind(shamrock, shamrock2, shamrock3, parton, lminnis, roe, roe2, inisharoan, inisharoan2, inishanier, green, green2, gminnis, drummond, drummond2, drummond3, darragh, darragh2, darragh3, craig)
+all_records <- rbind(shamrock, shamrock2, shamrock3, parton, lminnis, roe, roe2, inisharoan, inisharoan2, inishanier, green, green2, gminnis, drummond, drummond2, drummond3, darragh, darragh2, darragh3, craig, rainey, rainey2, rainey3)
 write.csv(all_records, "data/csv/all_records.csv")
