@@ -2,7 +2,7 @@
 J52756020,Cirsium vulgare,,19/08/2022,Shamrock
 J52746022,Armeria maritima,7,19/08/2022,Shamrock Mid Saltmarsh
 J52746022,Plantago maritima,8,19/08/2022,Shamrock Mid Saltmarsh
-J52746022,?Salicornia europaea,2,19/08/2022,Shamrock Mid Saltmarsh
+J52746022,Salicornia sp.,2,19/08/2022,Shamrock Mid Saltmarsh
 J52746022,Triglochin maritima,4,19/08/2022,Shamrock Mid Saltmarsh
 J52746022,Limonium humile,4,19/08/2022,Shamrock Mid Saltmarsh
 J52746022,Juncus gerardii,1,19/08/2022,Shamrock Mid Saltmarsh
@@ -10,11 +10,11 @@ J52746022,Aster tripolium,1,19/08/2022,Shamrock Mid Saltmarsh
 J52746022,Spergularia media,1,19/08/2022,Shamrock Mid Saltmarsh
 J52746022,Atriplex portulacoides,1,19/08/2022,Shamrock Mid Saltmarsh
 J52706025,Spartina anglica,,19/08/2022,Shamrock
-J52706025,?Puccinellia maritima,,19/08/2022,Shamrock
-J52696024,??Juncus maritimus,8,19/08/2022,Shamrock upper saltmarsh
+J52706025,Puccinellia maritima,,19/08/2022,Shamrock
+J52696024,Juncus maritimus,8,19/08/2022,Shamrock upper saltmarsh
 J52696024,Glaux maritima,6,19/08/2022,Shamrock upper saltmarsh
 J52696024,Plantago maritima,6,19/08/2022,Shamrock upper saltmarsh
-J52696024,?Juncus gerardii,5,19/08/2022,Shamrock upper saltmarsh
+J52696024,Juncus gerardii,5,19/08/2022,Shamrock upper saltmarsh
 J52696024,Agrostis stolonifera,4,19/08/2022,Shamrock upper saltmarsh
 J52696024,Festuca rubra,8,19/08/2022,Shamrock upper saltmarsh
 J52696024,Cochlearia officinalis,1,19/08/2022,Shamrock upper saltmarsh
@@ -32,10 +32,10 @@ J52756017,Rubus fruticosus agg.,,19/08/2022,Shamrock scrub
 J52756017,Prunus spinosa,,19/08/2022,Shamrock scrub
 J52756017,Crataegus monogyna,,19/08/2022,Shamrock scrub
 J52756017,Ulex europaeus,,19/08/2022,Shamrock scrub
-J52756017,?Salix,,19/08/2022,Shamrock scrub
+J52756017,Salix sp.,,19/08/2022,Shamrock scrub
 J52756017,Vicia cracca,,19/08/2022,Shamrock scrub
 J52756017,Arum maculatum,,19/08/2022,Shamrock scrub
-J52756017,?Dryopteris,,19/08/2022,Shamrock scrub
+J52756017,Dryopteris sp.,,19/08/2022,Shamrock scrub
 J52756017,Sambucus nigra,,19/08/2022,Shamrock scrub
 J52756017,Ranunculus repens,,19/08/2022,Shamrock scrub
 J52756017,Cerastium fontanum,,19/08/2022,Shamrock scrub
@@ -47,7 +47,7 @@ J52756017,Plantago lanceolata,,19/08/2022,Shamrock
 J52796015,Rumex acetosa,3,19/08/2022,Shamrock E Drumlin
 J52796015,Arrhenatherum elatius,8,19/08/2022,Shamrock E Drumlin
 J52796015,Lathyrus pratensis,5,19/08/2022,Shamrock E Drumlin
-J52796015,?Potentilla erecta,5,19/08/2022,Shamrock E Drumlin
+J52796015,Potentilla sp.,5,19/08/2022,Shamrock E Drumlin
 J52796015,Agrostis capillaris,3,19/08/2022,Shamrock E Drumlin
 J52796015,Vicia cracca,2,19/08/2022,Shamrock E Drumlin
 J52796015,Dactylis glomerata,3,19/08/2022,Shamrock E Drumlin
@@ -65,7 +65,7 @@ J52796015,Cerastium fontanum,1,19/08/2022,Shamrock E Drumlin
 J52796015,?Taraxacum,1,19/08/2022,Shamrock E Drumlin
 J52796015,Plantago lanceolata,1,19/08/2022,Shamrock E Drumlin
 J52796015,?Poa,2,19/08/2022,Shamrock E Drumlin
-J52796015,?Potentilla ×,4,19/08/2022,Shamrock E Drumlin
+J52796015,Potentilla sp.,4,19/08/2022,Shamrock E Drumlin
 J52796015,Rubus fruticosus agg.,5,19/08/2022,Shamrock E Drumlin
 J52796015,?Elytrigia,1,19/08/2022,Shamrock E Drumlin
 J52806016,Trifolium pratense,,19/08/2022,Shamrock
@@ -88,17 +88,17 @@ J52756016,Rumex crispus,,19/08/2022,Shamrock fescue grassland
 J52746016,Atriplex portulacoides,9,19/08/2022,Shamrock Lower Saltmarsh
 J52746016,Spergularia media,3,19/08/2022,Shamrock Lower Saltmarsh
 J52746016,Triglochin maritima,5,19/08/2022,Shamrock Lower Saltmarsh
-J52746016,?Puccinellia maritima,4,19/08/2022,Shamrock Lower Saltmarsh
+J52746016,Puccinellia maritima,4,19/08/2022,Shamrock Lower Saltmarsh
 J52746016,Juncus gerardii,4,19/08/2022,Shamrock Lower Saltmarsh
 J52746016,Limonium humile,3,19/08/2022,Shamrock Lower Saltmarsh
 J52746016,Aster tripolium,2,19/08/2022,Shamrock Lower Saltmarsh
 J52746016,Plantago maritima,1,19/08/2022,Shamrock Lower Saltmarsh
-J52746016,?Atriplex prostratus,1,19/08/2022,Shamrock Lower Saltmarsh
+J52746016,Atriplex sp.,1,19/08/2022,Shamrock Lower Saltmarsh
 J52746016,?Elytrigia 2,,19/08/2022,Shamrock Lower Saltmarsh
-J52746017,?Anthriscus sylvestris,,19/08/2022,Shamrock
+J52746017,Anthriscus sylvestris,,19/08/2022,Shamrock
 J52746017,Ranunculus acris,,19/08/2022,Shamrock
 J52646028,Agrostis capillaris,5,19/08/2022,Shamrock NW drumlin
-J52646028,?Potentilla ×,7,19/08/2022,Shamrock NW drumlin
+J52646028,Potentilla sp.,7,19/08/2022,Shamrock NW drumlin
 J52646028,Holcus lanatus,3,19/08/2022,Shamrock NW drumlin
 J52646028,Carex flacca,2,19/08/2022,Shamrock NW drumlin
 J52646028,Lotus corniculatus,1,19/08/2022,Shamrock NW drumlin
@@ -107,7 +107,7 @@ J52646028,Plantago lanceolata,4,19/08/2022,Shamrock NW drumlin
 J52646028,Anthoxanthum odoratum,3,19/08/2022,Shamrock NW drumlin
 J52646028,Centaurea nigra,2,19/08/2022,Shamrock NW drumlin
 J52646028,Rumex acetosa,2,19/08/2022,Shamrock NW drumlin
-J52646028,?Potentilla erecta,4,19/08/2022,Shamrock NW drumlin
+J52646028,Potentilla sp.,4,19/08/2022,Shamrock NW drumlin
 J52646028,?Poa,2,19/08/2022,Shamrock NW drumlin
 J52646028,Conopodium majus,,19/08/2022,Shamrock NW drumlin
 J52646028,Trifolium repens,1,19/08/2022,Shamrock NW drumlin

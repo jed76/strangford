@@ -30,7 +30,7 @@ J53786035,Odontites vernus,3,26/07/2022,Darragh Island NW Pond
 J53786035,Persicaria maculosa,3,26/07/2022,Darragh Island NW Pond
 J53786035,Poa annua,7,26/07/2022,Darragh Island NW Pond
 J53786035,Potentilla anserina,4,26/07/2022,Darragh Island NW Pond
-J53786035,?Glyceria notata,0,26/07/2022,Darragh Island NW Pond
+J53786035,Glyceria notata,0,26/07/2022,Darragh Island NW Pond
 J53786035,Ranunculus sceleratus,1,26/07/2022,Darragh Island NW Pond
 J53786035,Rumex crispus,2,26/07/2022,Darragh Island NW Pond
 J53786035,Rumex obtusifolius,2,26/07/2022,Darragh Island NW Pond
@@ -102,10 +102,10 @@ J53906015,Agrostis capillaris,,31/07/2022,Darragh Island SE Rush Pasture
 J53906015,Cerastium fontanum,,31/07/2022,Darragh Island SE Rush Pasture
 J53906015,Epilobium sp.,,31/07/2022,Darragh Island SE Rush Pasture
 J53906015,?Festuca rubra,,31/07/2022,Darragh Island SE Rush Pasture
-J53906015,?Festuca sp.,,31/07/2022,Darragh Island SE Rush Pasture
-J53906015,?Hypericum maculatum,,31/07/2022,Darragh Island SE Rush Pasture
-J53906015,?Juncus acutiflorus,,31/07/2022,Darragh Island SE Rush Pasture
-J53906015,?Sonchus sp.,,31/07/2022,Darragh Island SE Rush Pasture
+J53906015,Festuca sp.,,31/07/2022,Darragh Island SE Rush Pasture
+J53906015,Hypericum sp.,,31/07/2022,Darragh Island SE Rush Pasture
+J53906015,Juncus acutiflorus/articulatus agg.,,31/07/2022,Darragh Island SE Rush Pasture
+J53906015,Sonchus sp.,,31/07/2022,Darragh Island SE Rush Pasture
 J53906015,Stellaria media,,31/07/2022,Darragh Island SE Rush Pasture
 J53906015,Alopecurus geniculatus,,31/07/2022,Darragh Island SE Rush Pasture
 J53906015,Anthoxanthum odoratum,,31/07/2022,Darragh Island SE Rush Pasture
@@ -137,7 +137,7 @@ J53906015,Stellaria graminea,,31/07/2022,Darragh Island SE Rush Pasture
 J53906015,Trifolium repens,,31/07/2022,Darragh Island SE Rush Pasture
 J53906015,Vicia cracca,,31/07/2022,Darragh Island SE Rush Pasture
 J53906015,Vicia sepium,,31/07/2022,Darragh Island SE Rush Pasture
-J53906015,?Puccinellia sp.,,31/07/2022,Darragh Island SE Shore
+J53906015,Puccinellia maritima,,31/07/2022,Darragh Island SE Shore
 J53906015,Aster tripolium,,31/07/2022,Darragh Island SE Shore
 J53906015,Atriplex prostrata agg.,,31/07/2022,Darragh Island SE Shore
 J53906015,Galium aparine,,31/07/2022,Darragh Island SE Shore
@@ -258,7 +258,7 @@ J53756016,Vicia sepium,,31/07/2022,Darragh Island Blackthorn Scrub
 J53756016,Viola riviniana,,31/07/2022,Darragh Island Blackthorn Scrub
 J53716047,Agrostis capillaris,8,31/07/2022,Darragh Island N Drumlin Rush Pasture
 J53716047,Cerastium fontanum,0.5,31/07/2022,Darragh Island N Drumlin Rush Pasture
-J53716047,?Juncus acutiflorus,8,31/07/2022,Darragh Island N Drumlin Rush Pasture
+J53716047,Juncus acutiflorus/articulatus agg.,8,31/07/2022,Darragh Island N Drumlin Rush Pasture
 J53716047,Achillea ptarmica,5,31/07/2022,Darragh Island N Drumlin Rush Pasture
 J53716047,Anthoxanthum odoratum,2,31/07/2022,Darragh Island N Drumlin Rush Pasture
 J53716047,Centaurea nigra,3,31/07/2022,Darragh Island N Drumlin Rush Pasture

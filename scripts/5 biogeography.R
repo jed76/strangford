@@ -7,6 +7,8 @@ library(ggrepel)
 # import data -------------------------------------------------------------
 
 data <- read.csv('data/species-area.csv', stringsAsFactors = T)
+all_islands <- rbind(data, read.csv('data/other_islands.csv', stringsAsFactors = T)[1:6])
+all_islands["Strangford"] <- c(T, T, T, T, T, T, T, T, T, T, T, T, F, F, F, F, F, F, F, F, F)
 
 # linear model ------------------------------------------------------------
 
@@ -56,8 +58,7 @@ p <- ggplot(data, aes(x=log_area, y=log_species_richness, col = grazing)) +
         legend.text = element_text(color='black'),
         legend.title = element_text(color='black')) +
   xlab('ln(Area in m²)') +
-  ylab('ln(Number of species)'
-  )
+  ylab('ln(Number of species)')
 p
 
 ### save figures -----------------------------------------------------------
@@ -112,3 +113,27 @@ dev.off()
 svg('figures/25_02_residuals.svg', height=4, width=5, bg="transparent")
 p2
 dev.off()
+
+# comparison with other islands -------------------------------------------
+
+p3 <- ggplot(all_islands, aes(x=log_area, y=log_species_richness, col=Strangford)) +
+  geom_point() +
+  geom_text_repel(aes(label=island),
+                  color='black',
+                  nudge_y = 0.01) +
+  theme(panel.background = element_rect(fill = "transparent", colour = NA),
+        plot.background = element_rect(fill = "transparent", colour = NA),
+        axis.title.x = element_text(color = 'black'),
+        axis.title.y = element_text(color = 'black'),
+        axis.ticks = element_line(color = "black"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        axis.text = element_text(colour = "black"),
+        legend.position = 'bottom',
+        legend.background = element_blank(),
+        legend.key = element_blank(),
+        legend.text = element_text(color='black'),
+        legend.title = element_text(color='black')) +
+  xlab('ln(Area in m²)') +
+  ylab('ln(Number of species)')
+p3

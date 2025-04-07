@@ -13,7 +13,7 @@ J53796031,Achillea millefolium,1,24/08/2022,Darragh
 J53796031,Festuca rubra,8,24/08/2022,Darragh
 J53796031,Lolium perenne,0,24/08/2022,Darragh
 J53796031,Cerastium fontanum,0,24/08/2022,Darragh
-J53796034,?Juncus acutiflorus,8,24/08/2022,Darragh
+J53796034,Juncus acutiflorus/articulatus agg.,8,24/08/2022,Darragh
 J53796034,Potentilla anserina,7,24/08/2022,Darragh
 J53796034,Lathyrus pratensis,2,24/08/2022,Darragh
 J53796034,Trifolium pratense,1,24/08/2022,Darragh
@@ -32,35 +32,35 @@ J53796034,Rubus fruticosus agg.,1,24/08/2022,Darragh
 J53796034,Festuca rubra,2,24/08/2022,Darragh
 J53796034,?taraxacoid,1,24/08/2022,Darragh
 J53796034,Ranunculus acris,1,24/08/2022,Darragh
-J53796034,?Potentilla x,1,24/08/2022,Darragh
+J53796034,Potentilla sp.,1,24/08/2022,Darragh
 J53806032,Vicia cracca,,24/08/2022,Darragh
 J53806032,Carex flacca,,24/08/2022,Darragh
 J53806033,Iris pseudacorus,8,24/08/2022,Darragh
-J53806033,?Juncus acutiflorus,5,24/08/2022,Darragh
+J53806033,Juncus acutiflorus/articulatus agg.,5,24/08/2022,Darragh
 J53806033,Filipendula ulmaria,8,24/08/2022,Darragh
 J53806033,Lathyrus pratensis,2,24/08/2022,Darragh
 J53806033,Holcus lanatus,5,24/08/2022,Darragh
 J53806033,Agrostis capillaris,3,24/08/2022,Darragh
 J53806033,Trifolium pratense,1,24/08/2022,Darragh
-J53806033,?Potentilla x,2,24/08/2022,Darragh
+J53806033,Potentilla sp.,2,24/08/2022,Darragh
 J53806033,Cerastium fontanum,3,24/08/2022,Darragh
 J53806033,Ranunculus acris,1,24/08/2022,Darragh
-J53806033,?Festuca large,3,24/08/2022,Darragh
+J53806033,Festuca sp.,3,24/08/2022,Darragh
 J53806033,Anthoxanthum odoratum,5,24/08/2022,Darragh
 J53806033,Centaurea nigra,1,24/08/2022,Darragh
 J53806033,Rumex acetosa,1,24/08/2022,Darragh
 J53806033,Prunella vulgaris,,24/08/2022,Darragh
 J53836030,Puccinellia maritima,9,24/08/2022,Darragh
-J53836030,?Salicornia europaea,,24/08/2022,Darragh
+J53836030,Salicornia sp.,,24/08/2022,Darragh
 J53836030,Spergularia marina,,24/08/2022,Darragh
 J53836030,Limonium humile,,24/08/2022,Darragh
 J53836030,Aster tripolium,,24/08/2022,Darragh
-J53816024,?Glyceria notata,,24/08/2022,Darragh
+J53816024,Glyceria notata,,24/08/2022,Darragh
 J53816024,Juncus bufonius,,24/08/2022,Darragh
-J53816024,?Hypericum tetrapterum,,24/08/2022,Darragh
+J53816024,Hypericum tetrapterum,,24/08/2022,Darragh
 J53816024,Persicaria maculosa,,24/08/2022,Darragh
 J53816024,Alopecurus geniculatus,,24/08/2022,Darragh
-J53806021,?Hypericum pulchrum,,24/08/2022,Darragh
+J53806021,Hypericum pulchrum,,24/08/2022,Darragh
 J53806021,Carex flacca,,24/08/2022,Darragh
 J53806021,Teucrium scorodonia,,24/08/2022,Darragh
 J53806021,Primula vulgaris,,24/08/2022,Darragh
@@ -76,11 +76,11 @@ J53816017,Hypochaeris radicata,2,24/08/2022,Darragh
 J53816017,Ranunculus repens,3,24/08/2022,Darragh
 J53816017,?taraxacoid,5,24/08/2022,Darragh
 J53816017,Vicia cracca,1,24/08/2022,Darragh
-J53816017,?Potentilla x,3,24/08/2022,Darragh
+J53816017,Potentilla sp.,3,24/08/2022,Darragh
 J53816017,Festuca ovina,4,24/08/2022,Darragh
 J53816017,Centaurea nigra,2,24/08/2022,Darragh
 J53816017,Lolium perenne,0,24/08/2022,Darragh
-J53816017,?Juncus acutiflorus,1,24/08/2022,Darragh
+J53816017,Juncus acutiflorus/articulatus agg.,1,24/08/2022,Darragh
 J53866014,Juncus conglomeratus,,24/08/2022,Darragh
 J53966006,Sagina procumbens,,24/08/2022,Darragh
 J53966006,Prunella vulgaris,,24/08/2022,Darragh
@@ -117,18 +117,18 @@ J53656011,?Poa palustris,,24/08/2022,Darragh
 J53776021,Succisa pratensis,,24/08/2022,Darragh
 J53776021,Cynosurus cristatus,,24/08/2022,Darragh
 J53776021,Juncus conglomeratus,,24/08/2022,Darragh
-J53776021,?Potentilla x,,24/08/2022,Darragh
+J53776021,Potentilla sp.,,24/08/2022,Darragh
 J53776021,Trifolium repens,,24/08/2022,Darragh
 J53776023,Rosa sp.,,24/08/2022,Darragh
 J53806022,Ranunculus hederaceus,,24/08/2022,Darragh
 J53806022,Lemna minor,,24/08/2022,Darragh
 J53806022,Ranunculus sceleratus,,24/08/2022,Darragh
-J53806022,?Glyceria notata,,24/08/2022,Darragh
+J53806022,Glyceria notata,,24/08/2022,Darragh
 J53816021,Galium saxatile,,24/08/2022,Darragh
 J53796024,Poa annua,,24/08/2022,Darragh
 J53786024,Oxalis acetosella,,24/08/2022,Darragh
 J53776025,Gnaphalium uliginosum,,24/08/2022,Darragh
-J53776025,?Persicaria hydropiper,,24/08/2022,Darragh
+J53776025,Persicaria hydropiper,,24/08/2022,Darragh
 J53776025,Sonchus asper,,24/08/2022,Darragh
 J53776025,Persicaria maculosa,,24/08/2022,Darragh
 J53776025,Alopecurus geniculatus,,24/08/2022,Darragh
@@ -150,7 +150,7 @@ J53756038,Pteridium aquilinum,8,24/08/2022,Darragh
 J53756038,Viola riviniana,2,24/08/2022,Darragh
 J53756038,Vicia cracca,3,24/08/2022,Darragh
 J53756038,Trifolium repens,5,24/08/2022,Darragh
-J53756038,?Hypericum pulchrum,1,24/08/2022,Darragh
+J53756038,Hypericum pulchrum,1,24/08/2022,Darragh
 J53756038,Rubus fruticosus agg.,3,24/08/2022,Darragh
 J53756038,Holcus lanatus,3,24/08/2022,Darragh
 J53756038,Teucrium scorodonia,3,24/08/2022,Darragh
