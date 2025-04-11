@@ -37,7 +37,38 @@ data["visits"] <- data["X2"]
 lm(log_species_richness ~ log_area, data = data)
 data$res <- lm(log_species_richness ~ log_area, data = data)$res
 
-p <- ggplot(data, aes(x=log_area, y=res, col = visits)) +
+p <- ggplot(data, aes(x=log_area, y=log_species_richness, col = visits)) +
+  geom_smooth(method='lm',
+              color = 'black',
+              se=F,
+              linewidth = 0.3) +
+  geom_point() +
+  geom_text_repel(aes(label=island),
+                  color='black',
+                  nudge_y = -0.01,
+                  force_pull = 1.5) +
+  theme(panel.background = element_rect(fill = "transparent", colour = NA),
+        plot.background = element_rect(fill = "transparent", colour = NA),
+        axis.title.x = element_text(color = 'black'),
+        axis.title.y = element_text(color = 'black'),
+        axis.ticks = element_line(color = "black"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        axis.text = element_text(colour = "black"),
+        legend.position = 'bottom',
+        legend.background = element_blank(),
+        legend.key = element_blank(),
+        legend.text = element_text(color='black'),
+        legend.title = element_text(color='black')) +
+  xlab('ln(Area in m²)') +
+  ylab('ln(Number of species)')
+p
+
+png('figures/log-log_by_visits.png', height=2500, width=3000, res=600, bg='white')
+p
+dev.off()
+
+p2 <- ggplot(data, aes(x=log_area, y=res, col = visits)) +
   geom_hline(yintercept = 0, color = "black") +
   geom_point() +
   geom_text_repel(aes(label=island),
@@ -59,8 +90,8 @@ p <- ggplot(data, aes(x=log_area, y=res, col = visits)) +
   xlab('ln(Area in m²)') +
   ylab('residual ln(Number of species)'
   )
-p
+p2
 
 png('figures/residuals_by_visits.png', height=2500, width=3000, res=600, bg='white')
-p
+p2
 dev.off()
