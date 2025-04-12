@@ -20,6 +20,8 @@ Remove uncertain records and save the edited datasheet as `data/certain_records.
 
 Calculate the total species richness of each island and combine this with island area and grazing data (generated from Google Earth, and field observations and interviews with landowners, respectively). Calculate the natural log of species richness and area for each island. These data are then saved as `data/species-area.csv`. Some taxa may be represented twice (e.g. `Festuca sp.` and `Festuca rubra`), so when there is a record of a genus to species level from an island, records to genus level are excluded to prevent double-counting.
 
+Calculate the total species richness of the area using the same method (182).
+
 ### `5 biogeography.R`
 
 ![](https://github.com/jed76/strangford/blob/main/figures/log-log.png?raw=true)
