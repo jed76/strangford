@@ -8,7 +8,7 @@ library(ggrepel)
 
 data <- read.csv('data/species-area.csv', stringsAsFactors = T)
 all_islands <- rbind(data, read.csv('data/other_islands.csv', stringsAsFactors = T)[1:6])
-all_islands["Strangford"] <- c(T, T, T, T, T, T, T, T, T, T, T, T, F, F, F, F, F, F, F, F, F)
+all_islands["Location"] <- c("Strangford", "Strangford", "Strangford", "Strangford", "Strangford", "Strangford", "Strangford", "Strangford", "Strangford", "Strangford", "Strangford", "Strangford", "Other", "Other", "Other", "Other", "Other", "Other", "Other", "Other", "Other")
 
 # linear model ------------------------------------------------------------
 
@@ -116,7 +116,7 @@ dev.off()
 
 # comparison with other islands -------------------------------------------
 
-p3 <- ggplot(all_islands, aes(x=log_area, y=log_species_richness, col=Strangford)) +
+p3 <- ggplot(all_islands, aes(x=log_area, y=log_species_richness, col=Location)) +
   geom_point() +
   geom_text_repel(aes(label=island),
                   color='black',
@@ -137,3 +137,13 @@ p3 <- ggplot(all_islands, aes(x=log_area, y=log_species_richness, col=Strangford
   xlab('ln(Area in m²)') +
   ylab('ln(Number of species)')
 p3
+
+## Save figures
+
+png('figures/25_04_other_islands.png', height=2500, width=3000, res=600, bg='white')
+p3
+dev.off()
+
+svg('figures/25_04_other_islands.svg', height=4, width=5, bg="transparent")
+p3
+dev.off()
